@@ -97,17 +97,20 @@ Datasets too large → only links provided.
 
 7. Output Screenshots / Result Summary
 
-results/
+Denoising Performance Results
 
-Typical images:
+### **Metric Comparison**
+This figure shows the quantitative comparison (PSNR/SSIM) across different denoising models and configurations.
 
-noisy_input.png
+<img src="results/metric_comparison.png" width="600">
 
-pretrained_output.png
 
-lan_output.png
 
-comparison_grid.png
+### **Visual Comparison Result**
+This image shows a qualitative visual comparison between noisy input, pretrained model output, and LAN-enhanced output.
+
+<img src="results/comparison_result.png" width="600">
+
 
 8. YouTube Demo Link
 
