@@ -124,7 +124,10 @@ This image shows a qualitative visual comparison between noisy input, pretrained
 8. YouTube Demo Link
 
 
-[YouTube Demo Link]
+[![Watch the video](https://img.youtube.com/vi/mbTvmvE0Bts/0.jpg)](https://youtu.be/mbTvmvE0Bts)
+
+[Watch on YouTube »](https://youtu.be/mbTvmvE0Bts)
+
 
 
 
