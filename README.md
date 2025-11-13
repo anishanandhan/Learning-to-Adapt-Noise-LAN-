@@ -105,6 +105,15 @@ This figure shows the quantitative comparison (PSNR/SSIM) across different denoi
 <img src="results/metric_comparison.png" width="600">
 
 
+##PSNR Improvement Over Adaptation Iterations
+
+This figure shows how PSNR improves across LAN adaptation steps, compared between
+LAN (ours), Full-Trainable, and Pretrained baselines.
+
+<p align="center">
+  <img src="results/psnr_iteration_curve.png" width="500">
+</p>
+
 
 ### **Visual Comparison Result**
 This image shows a qualitative visual comparison between noisy input, pretrained model output, and LAN-enhanced output.
