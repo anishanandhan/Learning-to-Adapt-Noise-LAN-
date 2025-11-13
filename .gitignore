@@ -9,4 +9,4 @@ __pycache__/
 *.pyc
 
 # Ignore Mac-specific files
-.DS_Store
+.DS_Storebasicsr_NAFNET/pretrained_models/
