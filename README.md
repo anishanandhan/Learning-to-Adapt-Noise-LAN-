@@ -7,12 +7,14 @@ Real-world image denoising remains challenging due to highly variable and unpred
 We integrate LAN with Restormer, NAFNet, and Neighbor2Neighbor/ZS-N2N, and evaluate SIDD-pretrained models on PolyU and Nam datasets. The method demonstrates improved PSNR, SSIM, and perceptual quality. LAN is lightweight, computationally inexpensive, and effective for robust real-world denoising.
 
 2. Team Members
-Name	Register Number
+   
 Anish Anadhan A L	22MIS1190
+
 Laksharaa A S	23MIA1053
+
 Sandheep S S	23MIA1161
 
-3. Base Paper Reference
+4. Base Paper Reference
 
 Title: LAN: Learning to Adapt Noise for Image Denoising
 Authors: Changjin Kim, Tae Hyun Kim, Sungyong Baik
@@ -48,6 +50,7 @@ Neighbor2Neighbor / ZS-N2N
 tqdm
 
 5. Steps to Execute the Code
+   
 Install Dependencies
 pip install -r requirements.txt
 
@@ -108,7 +111,6 @@ comparison_grid.png
 
 8. YouTube Demo Link
 
-Add your demo link here:
 
 [YouTube Demo Link]
 
